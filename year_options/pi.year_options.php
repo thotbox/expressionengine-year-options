@@ -1,7 +1,7 @@
 <?php
 
 $plugin_info = array(
-    'pi_name' => 'Thotbox Year Options',
+    'pi_name' => 'Thotbox: Year Options',
     'pi_author' =>'Shane Woodward',
     'pi_description' => 'Generates options for select fields starting from current year',
     'pi_version' =>'1.0',
